@@ -13,12 +13,16 @@ Particle Detection and Classification: Uses adaptive thresholding, morphological
 Water Quality Metrics Calculation: Calculates metrics such as particle density, estimated turbidity, and suspended solids.
 Drinkability Assessment: Compares results with water quality standards to provide a drinkability rating.
 Particle Type Breakdown: Classifies and analyzes particles by type, including bacteria, algae, and sediment.
+
+
 ![Setup ](water_samples/river_water_2.jpg)
 # Methodology
 Image Acquisition: Captures high-resolution images of water samples with consistent lighting and calibration.
 Preprocessing: Enhances image quality using noise reduction, contrast adjustment, and segmentation techniques.
 Detection and Classification: Identifies particles based on size, shape, and color properties to classify contaminants.
 Water Quality Analysis: Quantifies particle density and assesses overall quality based on standard guidelines.
+
+![Setup ](processesd_Image/processed_image1.jpg)
 # Results and Discussion
 The system provides insights into:
 
