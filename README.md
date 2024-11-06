@@ -29,6 +29,9 @@ The system provides insights into:
 Particle size distribution and type, with a breakdown by bacteria, algae, and sediment.
 Key water quality indicators, including particle density and turbidity, correlated with established standards.
 Visual outputs of detected particles for manual verification.
+
+![Output Image ](setup_images/OP.jpg)
+
 Limitations and Future Improvements
 Current Limitations: Detection accuracy may be affected by lighting inconsistencies and overlapping particles.
 Future Directions: Integrate machine learning for advanced classification and explore multi-spectral imaging to detect transparent particles.
