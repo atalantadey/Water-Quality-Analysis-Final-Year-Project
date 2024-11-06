@@ -5,6 +5,8 @@ This project utilizes advanced image processing techniques to analyze water samp
 #Overview
 The system combines various image processing techniques to capture and analyze water sample images, detect particles, classify contaminants, and evaluate overall water quality. By correlating particle size, shape, and density with known water quality standards, the system can estimate contamination levels and suggest drinkability based on widely accepted guidelines (e.g., WHO, EPA).
 
+![Setup ](setup_images/setup1.jpg)
+
 # Features
 Image Acquisition and Preprocessing: Captures water sample images, reduces noise, and enhances contrast for better detection.
 Particle Detection and Classification: Uses adaptive thresholding, morphological transformations, and contour detection to identify particles.
